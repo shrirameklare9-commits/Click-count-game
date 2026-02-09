@@ -1,71 +1,35 @@
-# My Web App
+# ⚡ Click Speed Challenge Game
 
-A simple web application built with HTML, CSS, and JavaScript.
-
-## How to Run
-
-1. Open `index.html` in your web browser
-2. That's it! No installation or build process required.
-
-## Files# ⚡ Click Speed Challenge Game
-
-An interactive browser-based game where users test their clicking speed within a selected time limit.  
-Built using pure HTML, CSS, and JavaScript with real-time score tracking and persistent high scores.
+An interactive web-based game that allows users to test their clicking speed within a selected time limit.  
+Built using HTML, CSS, and JavaScript with real-time score tracking and persistent high scores.
 
 ---
 
 ## 🚀 Features
 
-- ⏱ Custom Game Timer (User Selectable)
-- 🖱 Real-Time Click Counter
-- 📊 Clicks Per Second (CPS) Calculation
-- 🏆 High Score Saved using localStorage
-- 📈 Dynamic Progress Bar with Color Changes
-- 🔊 Sound Effects on Click
-- 🎨 Animated UI with Responsive Design
+- ⏱ Custom game timer selection  
+- 🖱 Real-time click counter  
+- 📊 Clicks Per Second (CPS) calculation  
+- 🏆 High score saved using localStorage  
+- 📈 Dynamic progress bar with color changes  
+- 🔊 Sound effects on click  
+- 🎨 Simple and interactive user interface  
 
 ---
 
 ## 🛠 Technologies Used
 
-- HTML5
-- CSS3 (Flexbox, Gradients, Animations)
-- Vanilla JavaScript (DOM Manipulation, Event Handling, Timer Logic)
-- localStorage API
+- HTML5  
+- CSS3  
+- JavaScript (DOM manipulation, events, timer logic)  
+- localStorage API  
+
 
 ---
 
-## 📸 Preview
-Example:
-c:\Users\Shriram\Pictures\Screenshots\Screenshot 2026-02-09 000956.png
-c:\Users\Shriram\Pictures\Screenshots\Screenshot 2026-02-09 001150.png
-
----
-
-## 🎯 How It Works
-
-1. Select the game duration.
-2. Click the "Start Game" button.
-3. Click as fast as possible within the time limit.
-4. View your:
-   - Total Clicks
-   - Clicks Per Second (CPS)
-   - High Score
-
----
-
-## 📂 Project Structure
-
-
-
-- `index.html` - Main HTML structure
-- `style.css` - Styling and design
-- `script.js` - Interactive functionality
-
-## Next Steps
-
-You can start adding your own features by:
-- Modifying the HTML structure in `index.html`
-- Changing styles in `style.css`
-- Adding more interactivity in `script.js`
+## 📂 Project preview
+Start:
+<img width="1912" height="974" alt="Screenshot 2026-02-09 000956" src="https://github.com/user-attachments/assets/05452719-0ed9-45d8-a84d-e3ef9c424dcd" />
+End:
+<img width="1909" height="975" alt="Screenshot 2026-02-09 001150" src="https://github.com/user-attachments/assets/027f3cf6-0141-490e-909c-fcfc020df241" />
 
